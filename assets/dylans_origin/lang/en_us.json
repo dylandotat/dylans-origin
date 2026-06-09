@@ -1,10 +1,16 @@
 {
-  "origin.dylans_origin.dylans_origin.name": "Dylan's Origin",
-  "origin.dylans_origin.dylans_origin.description": "Playful and mischievous, you are an elf-like spirit with the Pixie origin traits and a magical boost every 2 seconds.",
+  "origin.dylans_origin.dylans_origin.name": "Shoulder Sprite",
+  "origin.dylans_origin.dylans_origin.description": "A tiny mischievous sprite with pixie magic and birb-like aerial instincts: small, lucky, glowing, shoulder-riding, lightly armored, and deadlier while gliding.",
   "power.dylans_origin.dylans_origin/bite_sized.name": "Bite Sized",
   "power.dylans_origin.dylans_origin/bite_sized.description": "You are now four times smaller with five less hearts.",
   "power.dylans_origin.dylans_origin/effect_glow.name": "Pixies Blessing",
   "power.dylans_origin.dylans_origin/effect_glow.description": "Being a being of pure fondness gives you permanent luck and a warming aura.",
   "power.dylans_origin.dylans_origin/flying.name": "Magical Boost",
-  "power.dylans_origin.dylans_origin/flying.description": "You do not need to use fireworks, as you can gain a forwards and upwards boost using your magic. This version recharges every 2 seconds."
+  "power.dylans_origin.dylans_origin/flying.description": "You do not need to use fireworks, as you can gain a forwards and upwards boost using your magic. This version recharges every 2 seconds.",
+  "power.dylans_origin.dylans_origin/almost_no_armor.name": "Extreme Need for Mobility",
+  "power.dylans_origin.dylans_origin/almost_no_armor.description": "You are very tiny, which makes it hard to wear any armor apart from leather, gold, chainmail, and iron chestplates.",
+  "power.dylans_origin.dylans_origin/jockey.name": "Shoulder Rider",
+  "power.dylans_origin.dylans_origin/jockey.description": "Press your use key while looking at another player to ride on their shoulders.",
+  "power.dylans_origin.dylans_origin/more_air_damage.name": "Aerial Advantage",
+  "power.dylans_origin.dylans_origin/more_air_damage.description": "While fall-flying, you deal twice as much damage."
 }

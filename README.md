@@ -5,20 +5,24 @@ A standalone Minecraft Origins datapack based on the Pixie origin from [Origins+
 ## Changes from Pixie
 
 - Magical Boost cooldown changed from 500 ticks / 25 seconds to 40 ticks / 2 seconds.
-- Display name changed to **Dylan's Origin**.
+- Display name changed to **Shoulder Sprite**.
 - Namespaced as `dylans_origin:dylans_origin` so it can be installed alongside Origins++.
+- Removed the Pixie vegetarian-only food drawback.
+- Added Birb's armor restriction, shoulder-riding ability, and 2x damage while fall-flying.
 
 ## Included Pixie traits
 
 - Elytra flight
 - Fall immunity
-- Vegetarian drawback
 - Bite Sized: four times smaller, five fewer hearts, slightly lower movement speed, slightly higher attack speed
 - Pixies Blessing: glowing aura and hidden luck effect
 - Magical Boost
 - No fireworks
 - Pixie dust particles
 - Hidden Speed II effect
+- Extreme Need for Mobility: restricted armor choices
+- Shoulder Rider: ride on other players
+- Aerial Advantage: 2x damage while fall-flying
 
 ## Requirements
 
