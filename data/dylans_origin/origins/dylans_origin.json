@@ -1,0 +1,16 @@
+{
+  "powers": [
+    "origins:elytra",
+    "origins:fall_immunity",
+    "origins:vegetarian",
+    "dylans_origin:dylans_origin/bite_sized",
+    "dylans_origin:dylans_origin/effect_glow",
+    "dylans_origin:dylans_origin/effect_luck",
+    "dylans_origin:dylans_origin/flying",
+    "dylans_origin:dylans_origin/no_fireworks",
+    "dylans_origin:dylans_origin/pixie_dust",
+    "dylans_origin:dylans_origin/speed"
+  ],
+  "icon": "minecraft:glowstone_dust",
+  "impact": 3
+}
