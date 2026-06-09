@@ -22,11 +22,11 @@
       }
     ]
   },
-  "cooldown": 40,
+  "cooldown": 3,
   "hud_render": {
     "bar_index": 4
   },
   "key": "key.origins.secondary_active",
   "name": "Magical Boost",
-  "description": "You do not need fireworks: your magic gives you a forward and upward boost every 2 seconds."
+  "description": "You do not need fireworks: your magic gives you a forward and upward boost every 3 ticks."
 }

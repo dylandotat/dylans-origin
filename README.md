@@ -4,7 +4,7 @@ A standalone Minecraft Origins datapack based on the Pixie origin from [Origins+
 
 ## Changes from Pixie
 
-- Magical Boost cooldown changed from 500 ticks / 25 seconds to 40 ticks / 2 seconds.
+- Magical Boost cooldown changed from 500 ticks / 25 seconds to 3 ticks.
 - Display name changed to **Peregrine Falcon**.
 - Namespaced as `dylans_origin:dylans_origin` so it can be installed alongside Origins++.
 - Removed the Pixie vegetarian-only food drawback.
