@@ -9,6 +9,7 @@ A standalone Minecraft Origins datapack based on the Pixie origin from [Origins+
 - Namespaced as `dylans_origin:dylans_origin` so it can be installed alongside Origins++.
 - Removed the Pixie vegetarian-only food drawback.
 - Added Birb's armor restriction, shoulder-riding ability, and 2x damage while fall-flying.
+- Added Giant-style rideability so other players can sit on you.
 
 ## Included Pixie traits
 
@@ -23,6 +24,7 @@ A standalone Minecraft Origins datapack based on the Pixie origin from [Origins+
 - Extreme Need for Mobility: restricted armor choices
 - Shoulder Rider: ride on other players
 - Aerial Advantage: 2x damage while fall-flying
+- Living Perch: other players can sit on your shoulders
 
 ## Server display text
 

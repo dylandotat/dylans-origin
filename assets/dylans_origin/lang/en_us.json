@@ -20,5 +20,7 @@
   "power.dylans_origin.dylans_origin/pixie_dust.name": "Pixie Dust",
   "power.dylans_origin.dylans_origin/pixie_dust.description": "You leave a faint trail of pixie dust behind you.",
   "power.dylans_origin.dylans_origin/speed.name": "Pixie Speed",
-  "power.dylans_origin.dylans_origin/speed.description": "Your tiny body moves with a hidden Speed II effect."
+  "power.dylans_origin.dylans_origin/speed.description": "Your tiny body moves with a hidden Speed II effect.",
+  "power.dylans_origin.dylans_origin/rideable.name": "Living Perch",
+  "power.dylans_origin.dylans_origin/rideable.description": "Other players can use you to sit on your shoulders, like the Giant origin."
 }

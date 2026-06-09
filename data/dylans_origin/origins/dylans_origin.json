@@ -11,7 +11,8 @@
     "dylans_origin:dylans_origin/speed",
     "dylans_origin:dylans_origin/almost_no_armor",
     "dylans_origin:dylans_origin/jockey",
-    "dylans_origin:dylans_origin/more_air_damage"
+    "dylans_origin:dylans_origin/more_air_damage",
+    "dylans_origin:dylans_origin/rideable"
   ],
   "icon": "minecraft:glowstone_dust",
   "impact": 3,
