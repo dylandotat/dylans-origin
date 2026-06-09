@@ -7,5 +7,7 @@
     "effect": "minecraft:glowing",
     "show_particles": false,
     "show_icon": false
-  }
+  },
+  "name": "Pixies Blessing",
+  "description": "Being a being of pure fondness gives you permanent luck and a warming aura."
 }

@@ -15,5 +15,7 @@
     }
   },
   "cooldown": 10,
-  "key": "key.use"
+  "key": "key.use",
+  "name": "Shoulder Rider",
+  "description": "Press your use key while looking at another player to ride on their shoulders."
 }

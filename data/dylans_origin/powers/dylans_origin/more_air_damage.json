@@ -6,5 +6,7 @@
   },
   "condition": {
     "type": "origins:fall_flying"
-  }
+  },
+  "name": "Aerial Advantage",
+  "description": "While fall-flying, you deal twice as much damage."
 }

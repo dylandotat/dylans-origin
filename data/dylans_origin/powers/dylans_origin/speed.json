@@ -9,5 +9,7 @@
     "show_icon": false,
     "amplifier": 1
   },
-  "hidden": true
+  "hidden": true,
+  "name": "Pixie Speed",
+  "description": "Your tiny body moves with a hidden Speed II effect."
 }

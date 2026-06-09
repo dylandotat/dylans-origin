@@ -2,5 +2,7 @@
   "hidden": true,
   "type": "origins:particle",
   "frequency": 10,
-  "particle": "minecraft:wax_off"
+  "particle": "minecraft:wax_off",
+  "name": "Pixie Dust",
+  "description": "You leave a faint trail of pixie dust behind you."
 }

@@ -6,5 +6,7 @@
     "ingredient": {
       "item": "minecraft:firework_rocket"
     }
-  }
+  },
+  "name": "No Fireworks",
+  "description": "Your magic prevents you from using firework rockets."
 }

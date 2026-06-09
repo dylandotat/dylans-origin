@@ -14,5 +14,7 @@
     "dylans_origin:dylans_origin/more_air_damage"
   ],
   "icon": "minecraft:glowstone_dust",
-  "impact": 3
+  "impact": 3,
+  "name": "that creature that goes really fast bird",
+  "description": "A tiny, mischievous, very fast bird-sprite with pixie magic: small, lucky, glowing, shoulder-riding, lightly armored, and much deadlier while gliding."
 }

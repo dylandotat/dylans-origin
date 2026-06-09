@@ -19,5 +19,7 @@
     "type": "origins:armor_value",
     "comparison": ">",
     "compare_to": 0
-  }
+  },
+  "name": "Extreme Need for Mobility",
+  "description": "You are very tiny, which makes it hard to wear any armor apart from leather, gold, chainmail, and iron chestplates."
 }

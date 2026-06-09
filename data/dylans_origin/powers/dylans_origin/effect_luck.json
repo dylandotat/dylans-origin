@@ -8,5 +8,7 @@
     "show_particles": false,
     "show_icon": false
   },
-  "hidden": true
+  "hidden": true,
+  "name": "Hidden Luck",
+  "description": "Your pixie magic grants you a hidden luck effect."
 }

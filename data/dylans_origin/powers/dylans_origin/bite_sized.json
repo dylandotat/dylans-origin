@@ -35,5 +35,7 @@
       }
     ],
     "update_health": true
-  }
+  },
+  "name": "Bite Sized",
+  "description": "You are now four times smaller with five fewer hearts."
 }
